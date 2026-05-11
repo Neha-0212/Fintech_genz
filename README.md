@@ -206,6 +206,7 @@ Fintech_genz-main/
 ├── fintech_genz_queries.sql       # 8 core analysis queries + dashboard query pack
 ├── fintech_genz_analysis.ipynb    # EDA notebook (Python/pandas)
 └── fintech_genz_strategy.pptx     # Executive strategy deck with recommendations
+└── fintech_genz_dashboard.py      # Dashboard 
 ```
 
 ---
@@ -228,6 +229,10 @@ sqlite> SELECT * FROM customers LIMIT 5;
 # Python EDA
 pip install pandas jupyter
 jupyter notebook fintech_genz_analysis.ipynb
+
+# Dashboard
+pip install streamlit
+streamlit run fintech_genz_dashboard.py
 ```
 
 ---
