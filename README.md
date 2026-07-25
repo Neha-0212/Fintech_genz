@@ -1,8 +1,10 @@
+# Live project link - https://fintechgenz-ydp2ythhg7phvrmi37atyh.streamlit.app/
+
 # Fintech GenZ Customer Intelligence & Risk Analytics
 
 > **1,000 Gen Z fintech customers. 8 SQL-powered business questions. 1 clear product recommendation.**  
 > This project diagnoses why Gen Z converts 20pp below older cohorts, quantifies credit risk by segment, and delivers a data-driven credit threshold strategy — packaged as a production-style analytics case study.
-
+ 
 ---
 
 ## Business Problem
